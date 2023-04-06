@@ -3,6 +3,7 @@
 #from this list in it and print out this new list.
 #3: Ask the user for a number and return a list that contains only elements from the original list a that
 #are smaller than that number given by the user
+
 import random
 x = [random.randint(1, 99) for i in range(1, 20)]
 print ("random collection: " + str(sorted(x)))
