@@ -12,4 +12,4 @@ while 1:
     except ValueError:
         print()
 
-# by www.github.com/Weltschmerz199
+# by github.com/Weltschmerz199
